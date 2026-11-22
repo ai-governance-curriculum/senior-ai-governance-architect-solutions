@@ -2,7 +2,7 @@
 
 AI Governance Curriculum · Level 50 · [learning](https://github.com/ai-governance-curriculum/senior-ai-governance-architect-learning) · [solutions](https://github.com/ai-governance-curriculum/senior-ai-governance-architect-solutions)
 
-_Generated 2026-11-15 by `aicg org completeness`._
+_Generated 2026-11-22 by `aicg org completeness`._
 
 **Overall: 50%**
 
@@ -18,15 +18,15 @@ _Generated 2026-11-15 by `aicg org completeness`._
 | `mod-101-role-scope-and-standards-landscape` | ✅ Complete | 16,813 | 6 | 5 | — | 0/5 |
 | `mod-102-ai-control-library-architecture` | ✅ Complete | 28,434 | 8 | 6 | — | 0/6 |
 | `mod-103-policy-taxonomy-and-policy-as-code` | ✅ Complete | 31,058 | 6 | 5 | — | 0/5 |
-| `mod-104-multi-jurisdiction-reconciliation` | ✅ Complete | 37,838 | 8 | 5 | — | 0/5 |
+| `mod-104-multi-jurisdiction-reconciliation` | ✅ Complete | 38,406 | 8 | 5 | — | 0/5 |
 | `mod-105-aims-and-ai-management-system-architecture` | ✅ Complete | 48,393 | 11 | 6 | — | 0/6 |
 | `mod-106-risk-taxonomy-and-enterprise-appetite` | ✅ Complete | 33,758 | 7 | 5 | — | 0/5 |
 | `mod-107-assurance-architecture-and-audit-readiness` | ✅ Complete | 40,158 | 7 | 6 | — | 0/6 |
-| `mod-108-evidence-architecture-and-documentation-schemas` | ✅ Complete | 55,053 | 7 | 5 | — | 0/5 |
-| `mod-109-third-party-and-supply-chain-governance-architecture` | ✅ Complete | 53,071 | 7 | 5 | — | 0/5 |
+| `mod-108-evidence-architecture-and-documentation-schemas` | ✅ Complete | 55,225 | 7 | 5 | — | 0/5 |
+| `mod-109-third-party-and-supply-chain-governance-architecture` | ✅ Complete | 53,138 | 7 | 5 | — | 0/5 |
 | `mod-110-monitoring-and-post-market-surveillance-architecture` | ✅ Complete | 36,626 | 6 | 5 | — | 0/5 |
 | `mod-111-grc-for-ai-platform-and-toolchain-architecture` | ✅ Complete | 46,782 | 7 | 5 | — | 0/5 |
-| `mod-112-program-design-and-org-shape` | ✅ Complete | 49,185 | 8 | 7 | — | 0/7 |
+| `mod-112-program-design-and-org-shape` | ✅ Complete | 49,628 | 8 | 7 | — | 0/7 |
 | `mod-113-sector-and-jurisdiction-blueprints` | ✅ Complete | 59,850 | 8 | 5 | — | 0/5 |
 
 ## How this is calculated
